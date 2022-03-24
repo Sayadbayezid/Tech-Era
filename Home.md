@@ -1,5 +1,6 @@
-Welcome to the hugo-profile wiki! 
+# Welcome to the hugo-profile wiki! 
 - Follow [hugo's official docs](https://gohugo.io/getting-started/quick-start) for installation
+- Follow [mikedane's docs](https://www.mikedane.com/static-site-generators/hugo/content-organization/) for content management
 
 # Features
 - Fully Responsive
