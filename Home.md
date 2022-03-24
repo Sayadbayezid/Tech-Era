@@ -7,6 +7,7 @@ Welcome to the hugo-profile wiki!
 - Light/Dark/auto
 - Taxonomies
 - [Color customization](https://github.com/gurusabarish/hugo-profile/wiki/Color-Customization)
+- Customizable header
 - Analytics Support 
   - [Google Analytics](https://gohugo.io/templates/internal/#google-analytics)
 - Comment Support
