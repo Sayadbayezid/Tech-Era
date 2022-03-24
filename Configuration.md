@@ -1,3 +1,12 @@
+This page contains the below configuration.
+- [Font](#Font)
+- [Color palette](#Color-palette)
+- [Theme](#Theme)
+- [SEO](#SEO)
+- [Navbar](#Navbar)
+- [Footer](#Footer)
+
+See the [configurations](https://github.com/gurusabarish/hugo-profile/wiki/Pages-or-Sections) for pages or sections.
 
 # Font
 You can customize the font size, font weight, line height, text align properties in `config.yaml`
@@ -11,7 +20,7 @@ params:
         textAlign: right # default: left
 ```
 
-## Font used
+**Font used**
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 - [Alata](https://fonts.google.com/specimen/Alata)
 - [Lara](https://fonts.google.com/specimen/Lora)
@@ -19,7 +28,7 @@ params:
 If you want to customize the font, edit these files [head.html]('./../../layouts/partials/head.html'), [font.css]('./../../static/css/font.css')
 
 # Color palette
-You can customize the color palette in `config.yaml`
+You can customize the color palette in `config.yaml`. For [more details](https://github.com/gurusabarish/hugo-profile/wiki/Color-Customization)
 
 ```yaml
 params:
@@ -70,7 +79,7 @@ params:
         brandName: "Profile" # Brand name for the brand | default is the title variable
 ```
 
-# Menus
+## Menus
 It follows Hugo's [menus](https://gohugo.io/content-management/menus)
 
 ```yaml
@@ -99,4 +108,16 @@ Menus:
       url: /#
       parent: dropdown
       weight: 2
+```
+
+# Footer
+```yaml
+footer:
+    # recentPosts: false
+    socialNetworks:
+      github: https://github.com
+      linkedin: https://linkedin.com
+      twitter: https://twitter.com
+      instagram: https://instagram.com
+      facebook: https://facebook.com
 ```
