@@ -1,7 +1,7 @@
 You can customize the colors using `config` file. Here, the examples are focused on light mode. If you want to customize dark mode too, you can.
 
 <!-- Navy -->
-<details open>
+<details close>
 <summary>Navy Variant</summary>
 
 - [demo Gif](https://github.com/gurusabarish/hugo-profile/blob/47bde42590410bfb151c4732da8129e1a9483e36/docs/demos/navyVariant/gif.gif)
@@ -19,7 +19,7 @@ color:
 </details>
 
 <!-- Blue -->
-<details open>
+<details close>
 <summary>Blue Variant</summary>
 
 - [demo Gif](https://github.com/gurusabarish/hugo-profile/blob/47bde42590410bfb151c4732da8129e1a9483e36/docs/demos/blueVariant/gif.gif)
@@ -37,7 +37,7 @@ color:
 </details>
 
 <!-- Red -->
-<details open>
+<details close>
 <summary>Red Variant</summary>
 
 - [demo Gif](https://github.com/gurusabarish/hugo-profile/blob/47bde42590410bfb151c4732da8129e1a9483e36/docs/demos/redVariant/gif.gif)
@@ -55,7 +55,7 @@ color:
 </details>
 
 <!-- Green -->
-<details open>
+<details close>
 <summary>Green Variant</summary>
 
 - [demo Gif](https://github.com/gurusabarish/hugo-profile/blob/47bde42590410bfb151c4732da8129e1a9483e36/docs/demos/greenVariant/gif.gif)
@@ -73,7 +73,7 @@ color:
 </details>
 
 <!-- Pink -->
-<details open>
+<details close>
 <summary>Pink Variant</summary>
 
 - [demo Gif](https://github.com/gurusabarish/hugo-profile/blob/47bde42590410bfb151c4732da8129e1a9483e36/docs/demos/pinkVariant/gif.gif)
