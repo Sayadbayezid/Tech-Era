@@ -5,6 +5,7 @@ This page contains the below configuration.
 - [SEO](#SEO)
 - [Navbar](#Navbar)
 - [Footer](#Footer)
+- [Custom CSS](#Custom-CSS)
 
 See the [configurations](https://github.com/gurusabarish/hugo-profile/wiki/Pages-or-Sections) for pages or sections.
 
@@ -120,4 +121,12 @@ footer:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+```
+
+# Custom CSS
+- If you want to use custom styling, then create a file named `style.css` inside static folder
+- Before adding your styles into the file, enable the customCSS configuartion in `config.yaml`.
+```yaml
+params:
+  customCSS: true
 ```
