@@ -6,6 +6,7 @@ This page contains the below configuration.
 - [Navbar](#Navbar)
 - [Footer](#Footer)
 - [Custom CSS](#Custom-CSS)
+- [SubPath to serve static files](#SubPath-to-serve-static-files)
 
 See the [configurations](https://github.com/gurusabarish/hugo-profile/wiki/Pages-or-Sections) for pages or sections.
 
@@ -129,4 +130,11 @@ footer:
 ```yaml
 params:
   customCSS: true
+```
+
+# SubPath to serve static files
+To allow websites in a sub-path like `<ghuser-or-org>.github.io/myhugosite/`
+```yaml
+params:
+  staticPath: "/your/path/"
 ```
