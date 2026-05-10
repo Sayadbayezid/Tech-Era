@@ -1,4 +1,4 @@
-baseURL: "https://Sayadbayezid.github.io/Tech-Era/"
+baseURL: "https://sayadbayezid.com/"
 languageCode: "en-us"
 title: "Sayad md Bayezid Hosan"
 theme: hugo-profile
@@ -85,12 +85,16 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/Sayadbayezid
         - icon: fab fa-linkedin
-          url: https://linkedin.com/in/sayadbayezid
+          url: https://www.linkedin.com/in/sayadbayezid
         - icon: fab fa-facebook
-          url: https://facebook.com/sayadbayezid
+          url: https://www.facebook.com/sayadbayezid
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/freelancer_bayezid0
+        - icon: fab fa-youtube
+          url: https://youtube.com/@cwbayezid
+        - icon: fab fa-behance
+          url: https://www.behance.net/syedbayxed/moodboards
 
   # About
   about:
@@ -100,34 +104,36 @@ params:
     content: |-
       As a Full-stack Web Developer, Digital Marketer, and Web Designer, I have built a reputation for delivering innovative digital solutions with 5+ years of experience. My expertise spans the entire digital ecosystem, from web development and AI integration to strategic digital marketing and tech entrepreneurship.
 
-      I am dedicated to helping my audience navigate digital platforms safely and efficiently by combining academic knowledge with practical technical innovation.
+      As a leading Tech Provider, I specialize in permission-based technical solutions and managing digital business assets. I am dedicated to helping my audience navigate digital platforms safely and efficiently by combining academic knowledge with practical technical innovation.
+
+      Professional Background: Founder of Connect with Bayezid and GenZ Frontier. With 2,200+ happy clients worldwide and 98% client retention rate, I have established myself as a trusted tech provider in the global digital ecosystem.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "React"
-        - "Node.js"
-        - "JavaScript"
+        - "Full-stack Web Development"
         - "Digital Marketing"
-        - "AI Integration"
         - "Web Design"
+        - "AI Integration"
+        - "Tech Entrepreneurship"
+        - "Business Asset Management"
 
   # Experience
   experience:
     enable: true
     items:
       - company: "Connect with Bayezid"
-        companyUrl: "https://sayadbayezid.com"
+        companyUrl: "https://www.connectwithbayezid.it.com"
         jobs:
           - name: "Founder & Tech Provider"
-            date: "2019 - present"
-            content: "Leading tech provider specializing in permission-based technical solutions and managing digital business assets. Delivered 2,200+ happy clients worldwide with a 98% retention rate."
+          - date: "2019 - Present"
+            content: "Specializing in permission-based technical solutions and managing digital business assets. Successfully served 2,200+ happy clients worldwide with a 98% client retention rate."
       - company: "GenZ Frontier"
-        companyUrl: "https://sayadbayezid.com"
+        companyUrl: "http://www.genzfrontir.com"
         jobs:
           - name: "Founder"
-            date: "2021 - present"
-            content: "Digital newsportal for modern generation insights and tech trends."
+          - date: "2021 - Present"
+            content: "Focusing on innovative digital ecosystem solutions and AI integration for the modern generation."
 
   # Education
   education:
@@ -138,49 +144,49 @@ params:
           name: "Northern University Bangladesh"
           url: "https://nub.ac.bd"
         date: "Expected Graduation: June 2026"
-        content: "Department of English"
+        content: "Department of English - Final-year undergraduate student."
 
   # Achievements
   achievements:
     enable: true
     items:
-      - title: "Digital Marketing Mastery"
-        content: "Professional certification in advanced digital marketing strategies, including SEO and content marketing."
+      - title: "2,200+ Happy Clients"
+        content: "Delivered successful digital solutions to a global clientele with high satisfaction."
         image: /images/achievement.jpg
-      - title: "Meta Certified Advertiser"
-        content: "Professional certification from Meta demonstrating expertise in Facebook and Instagram advertising."
+      - title: "98% Client Retention"
+        content: "Built long-term trust and professional relationships with businesses worldwide."
         image: /images/achievement.jpg
-      - title: "AI-Powered Design Innovation"
-        content: "Certified in leveraging artificial intelligence within Canva to create smarter designs."
+      - title: "5+ Years Experience"
+        content: "Proven track record in web development, digital marketing, and tech entrepreneurship."
         image: /images/achievement.jpg
 
   # projects
   projects:
     enable: true
     items:
-      - title: "AI WhatsApp Automation"
-        content: "A full-fledged 24/7 AI customer service system for a Fijian client. Automates orders and processes messages."
+      - title: "GenZ Frontier"
+        content: "An innovative digital ecosystem solution focusing on AI integration and modern tech trends."
         image: /images/projects/profile.png
         badges:
-          - "AI Chatbot"
-          - "WhatsApp API"
-      - title: "SmartGen QR Code Generator"
-        content: "The world's most advanced free QR code generator. Built for speed, privacy, and full customization."
+          - "AI Integration"
+          - "Digital Ecosystem"
+      - title: "Connect with Bayezid"
+        content: "A professional platform for tech solutions and digital business asset management."
         image: /images/projects/converter.jpg
         badges:
-          - "Utility"
-          - "Web Tool"
-      - title: "Tiny Tales"
-        content: "A heartwarming platform for preserving precious baby memories and milestones."
+          - "Tech Provider"
+          - "Business Solutions"
+      - title: "Personal Portfolio"
+        content: "A professional showcase of skills, experience, and digital service offerings."
         image: /images/projects/profile2.jpg
         badges:
-          - "Baby Archive"
-          - "Memory Storage"
+          - "Hugo"
+          - "Web Design"
 
   #Contact
   contact:
     enable: true
-    content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
+    content: "Based in Auliabad, Kalihati, Tangail, Bangladesh. My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
     btnName: "Mail me"
     btnLink: "mailto:Sayadmdbayezidhosan@gmail.com"
 
@@ -192,15 +198,15 @@ params:
       enable: true
     socialNetworks:
       github: https://github.com/Sayadbayezid
-      linkedin: https://linkedin.com/in/sayadbayezid
-      facebook: https://facebook.com/sayadbayezid
-      instagram: https://instagram.com/sayadbayezid
-      youtube: https://youtube.com/@sayadbayezid
+      linkedin: https://www.linkedin.com/in/sayadbayezid
+      facebook: https://www.facebook.com/sayadbayezid
+      instagram: https://www.instagram.com/freelancer_bayezid0
+      youtube: https://youtube.com/@cwbayezid
 
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: "All rights reserved © Sayad md Bayezid Hosan"
     emailText: "Check out this site"
 
   datesFormat:

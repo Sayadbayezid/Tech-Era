@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Render Math With Mathjax on Sayad md Bayezid Hosan</title>
-    <link>https://Sayadbayezid.github.io/Tech-Era/blogs/math/</link>
+    <link>https://sayadbayezid.com/blogs/math/</link>
     <description>Recent content in Render Math With Mathjax on Sayad md Bayezid Hosan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://Sayadbayezid.github.io/Tech-Era/blogs/math/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo 0.125.0</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://sayadbayezid.com/blogs/math/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

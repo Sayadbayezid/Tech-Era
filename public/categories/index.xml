@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sayad md Bayezid Hosan</title>
-    <link>https://Sayadbayezid.github.io/Tech-Era/categories/</link>
+    <link>https://sayadbayezid.com/categories/</link>
     <description>Recent content in Categories on Sayad md Bayezid Hosan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://Sayadbayezid.github.io/Tech-Era/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo 0.125.0</generator>
+    <language>en</language>
+    <atom:link href="https://sayadbayezid.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
